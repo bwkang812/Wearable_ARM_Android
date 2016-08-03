@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\kuhas\\newnewku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "D:\\kuhas\\newnewku\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\kuhas\\newnewku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\kuhas\\newnewku\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\kuhas\\newnewku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\kuhas\\newnewku\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\kuhas\\newnewku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\kuhas\\newnewku\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\kuhas\\newnewku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\kuhas\\newnewku\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
